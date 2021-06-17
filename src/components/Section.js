@@ -73,6 +73,7 @@ const LeftButton = styled.div`
   border-radius: 100px;
   text-transform: uppercase;
   font-size: 12px;
+  font-weight: 700;
   cursor: pointer;
   margin: 8px;
 `;

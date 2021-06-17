@@ -8,7 +8,7 @@ function Home() {
       <Section
         title="Model S"
         description="Order Online for Touchless Delivery"
-        backgroundImg="model-s.jpg"
+        backgroundImg="model-s.jfif"
         leftBtnText="Custom Order"
         rightBtnText="Existing Inventory"
       />
